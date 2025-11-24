@@ -96,7 +96,7 @@ const Footer = () => {
                     <h3 className="f-title f_600 t_color f_size_18">Help</h3>
                     <ul className="list-unstyled f_list">
                       <li>
-                        <Link to="#">FAQ</Link>
+                       <button className="footer-button">FAQ</button>
                       </li>
                       <li>
                         <Link to="#">Term &amp; conditions</Link>
