@@ -40,13 +40,9 @@ const Header = () => {
         </section>
         <div id="header1">
           <div id="mySidenav" className="sidenav" >
-            <Link
-              // to="javascript:void(0)"
-              className="closebtn"
-              onClick={closeNav}
-            >
-              ×
-            </Link>
+           <button className="closebtn" onClick={closeNav} style={{ background: "none", border: "none", fontSize: "30px" }}>
+  ×
+</button>
             <ul className="">
               <li><Link to="/tourism-management-system"  onClick={closeNav}>home</Link></li>
               <li><Link to="/about-us"  onClick={closeNav}>about</Link></li>
