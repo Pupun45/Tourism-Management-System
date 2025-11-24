@@ -98,7 +98,7 @@ const About = () => {
               <div className="banner-text-item">
                 <Slide direction='down'>
                   <div className="banner-heading">
-                    <h1>Explore Beauty Of Odisha</h1>
+                    <h1>Explore The Beauty Of Odisha</h1>
                   </div>
                 </Slide>
               </div>
