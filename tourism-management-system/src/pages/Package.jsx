@@ -65,7 +65,7 @@ const Package = () => {
                     <div className="col-md-8 text-white align-self-center mb-2 p-4">
                       <p className="hote">HOTEL PLACES</p>
 
-                      <span className>
+                      <span>
                         <h4 style={{ color: "#fff" }}>place description</h4>
                         <p>
                           Lorem ipsum dolor, sit amet consectetur adipisicing
@@ -131,7 +131,7 @@ const Package = () => {
                           <a href="https://maps.app.goo.gl/9VMSJmCrocHH7LkYA">
                             <button
                               type="button"
-                              class="btn btn-outline-primary"
+                              className="btn btn-outline-primary"
                             >
                               MAP
                             </button>
@@ -168,7 +168,7 @@ const Package = () => {
                             </div>
                             <div className="row form-group">
                               <div className="col-md-12">
-                                <div class="slidecontainer">
+                                <div className="slidecontainer">
                                   <div>
                                     <input
                                       type="range"

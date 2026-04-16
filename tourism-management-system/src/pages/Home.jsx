@@ -237,7 +237,7 @@ const Home = () => {
                                   </div>
                                 </section>
                                 {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                                {/* <a href="#" class="default-btn lineUp" style="color: white;">Donate Now</a> */}
+                                {/* <a href="#" className="default-btn lineUp" style="color: white;">Donate Now</a> */}
                               </div>
                             </div>
                           </div>
@@ -266,7 +266,7 @@ const Home = () => {
                                   </div>
                                 </section>
                                 {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                                {/* <a href="#" class="default-btn lineUp" style="color: white;">Donate Now</a> */}
+                                {/* <a href="#" className="default-btn lineUp" style="color: white;">Donate Now</a> */}
                               </div>
                             </div>
                           </div>
@@ -295,7 +295,7 @@ const Home = () => {
                                   </div>
                                 </section>
                                 {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                                {/* <a href="#" class="default-btn lineUp" style="color: white;">Donate Now</a> */}
+                                {/* <a href="#" className="default-btn lineUp" style="color: white;">Donate Now</a> */}
                               </div>
                             </div>
                           </div>
@@ -324,7 +324,7 @@ const Home = () => {
                                   </div>
                                 </section>
                                 {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                                {/* <a href="#" class="default-btn lineUp" style=" color: white;">Donate Now</a> */}
+                                {/* <a href="#" className="default-btn lineUp" style=" color: white;">Donate Now</a> */}
                               </div>
                             </div>
                           </div>
@@ -353,7 +353,7 @@ const Home = () => {
                                   </div>
                                 </section>
                                 {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                                {/* <a href="#" class="default-btn lineUp" style=" color: white;">Donate Now</a> */}
+                                {/* <a href="#" className="default-btn lineUp" style=" color: white;">Donate Now</a> */}
                               </div>
                             </div>
                           </div>
@@ -382,7 +382,7 @@ const Home = () => {
                                   </div>
                                 </section>
                                 {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                                {/* <a href="#" class="default-btn lineUp" style=" color: white;">Donate Now</a> */}
+                                {/* <a href="#" className="default-btn lineUp" style=" color: white;">Donate Now</a> */}
                               </div>
                             </div>
                           </div>
@@ -427,7 +427,7 @@ const Home = () => {
                                 </div>
                               </section>
                               {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                              {/* <a href="#" class="default-btn lineUp" style="color: white;">Donate Now</a> */}
+                              {/* <a href="#" className="default-btn lineUp" style="color: white;">Donate Now</a> */}
                             </div>
                           </div>
                         </div>
@@ -456,7 +456,7 @@ const Home = () => {
                                 </div>
                               </section>
                               {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                              {/* <a href="#" class="default-btn lineUp" style="color: white;">Donate Now</a> */}
+                              {/* <a href="#" className="default-btn lineUp" style="color: white;">Donate Now</a> */}
                             </div>
                           </div>
                         </div>
@@ -485,7 +485,7 @@ const Home = () => {
                                 </div>
                               </section>
                               {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                              {/* <a href="#" class="default-btn lineUp" style="color: white;">Donate Now</a> */}
+                              {/* <a href="#" className="default-btn lineUp" style="color: white;">Donate Now</a> */}
                             </div>
                           </div>
                         </div>
@@ -514,7 +514,7 @@ const Home = () => {
                                 </div>
                               </section>
                               {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                              {/* <a href="#" class="default-btn lineUp" style=" color: white;">Donate Now</a> */}
+                              {/* <a href="#" className="default-btn lineUp" style=" color: white;">Donate Now</a> */}
                             </div>
                           </div>
                         </div>
@@ -543,7 +543,7 @@ const Home = () => {
                                 </div>
                               </section>
                               {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                              {/* <a href="#" class="default-btn lineUp" style=" color: white;">Donate Now</a> */}
+                              {/* <a href="#" className="default-btn lineUp" style=" color: white;">Donate Now</a> */}
                             </div>
                           </div>
                         </div>
@@ -572,7 +572,7 @@ const Home = () => {
                                 </div>
                               </section>
                               {/* <a href="#" className="default-btn lineUp" style={{color: 'white'}}>Join With Us</a> */}
-                              {/* <a href="#" class="default-btn lineUp" style=" color: white;">Donate Now</a> */}
+                              {/* <a href="#" className="default-btn lineUp" style=" color: white;">Donate Now</a> */}
                             </div>
                           </div>
                         </div>
@@ -601,7 +601,7 @@ const Home = () => {
               </div>
             </div>
             <div className="container responiveheading" style={{ backgroundColor: '#fff' }}>
-              <h3 class="head3 spacing secondary-color text-center text-uppercase p-t80"  >
+              <h3 className="head3 spacing secondary-color text-center text-uppercase p-t80"  >
                 Travel With Us
               </h3>
             </div>
@@ -669,10 +669,10 @@ const Home = () => {
               {/* <p>Connecting with entrepreneurs online, is just a few clicks away.</p> */}
             </div>
             <div className="container-fluid responiveheading">
-              <h3 class="head3 spacing secondary-color text-center text-uppercase">
+              <h3 className="head3 spacing secondary-color text-center text-uppercase">
                 Top 8 City
               </h3>
-              <h2 class=" head2 spacing secondary-color text-center text-uppercase">
+              <h2 className=" head2 spacing secondary-color text-center text-uppercase">
                 Tourist Places
               </h2>
             </div>
@@ -843,10 +843,10 @@ const Home = () => {
               {/* <p>Connecting with entrepreneurs online, is just a few clicks away.</p> */}
             </div>
             <div className="container p-t80 responiveheading">
-              <h3 class="head3 spacing secondary-color text-center text-uppercase">
+              <h3 className="head3 spacing secondary-color text-center text-uppercase">
                 Most Demanded Places
               </h3>
-              <h2 class=" head2 spacing secondary-color text-center text-uppercase">
+              <h2 className=" head2 spacing secondary-color text-center text-uppercase">
                 Have A Glance
               </h2>
             </div>
@@ -863,7 +863,7 @@ const Home = () => {
                         {" "}
                       </p>
                       {/* <Link to="">
-                    <button class="custom-btn btn-9">Read More...</button>
+                    <button className="custom-btn btn-9">Read More...</button>
                   </Link> */}
                     </div>
                   </li>
@@ -871,12 +871,9 @@ const Home = () => {
                   <li className="item1 fourthimg">
                     <div className="content1">
                       <h2 className="title"> Chandipur: Seaside Serenity</h2>
-                      <p className="description">
-                        {" "}
-                        <p> There is no beach like Chandipur. At low tide, the beach retreats up to 5 km, allowing people to stroll on the ocean floor. The beach's equally unusual biodiversity is supported by this unique phenomena.</p>
-                      </p>
+                      <p className="description"> There is no beach like Chandipur. At low tide, the beach retreats up to 5 km, allowing people to stroll on the ocean floor. The beach's equally unusual biodiversity is supported by this unique phenomena.</p>
                       {/* <Link to="">
-                    <button class="custom-btn btn-9">Read More...</button>
+                    <button className="custom-btn btn-9">Read More...</button>
                   </Link> */}
                     </div>
                   </li>
@@ -889,7 +886,7 @@ const Home = () => {
                         This is the best place to visit in Odisha! The Annual Dance Festival is a five-day cultural spectacle that brings together exceptional dance talent from throughout the nation.
                       </p>
                       {/* <Link to="">
-                    <button class="custom-btn btn-9">Read More...</button>
+                    <button className="custom-btn btn-9">Read More...</button>
                   </Link> */}
                     </div>
                   </li>
@@ -900,7 +897,7 @@ const Home = () => {
                         These are the locations where religion, art, and rock-cut building abound. A pleasant location to take your family is the two hills, which rise sharply from the coastal plain and are divided by a highway around six kilometers west of Bhubaneswar.
                       </p>
                       {/* <Link to="">
-                    <button class="custom-btn btn-9">Read More...</button>
+                    <button className="custom-btn btn-9">Read More...</button>
                   </Link> */}
                     </div>
                   </li>
@@ -913,7 +910,7 @@ const Home = () => {
 
                       </p>
                       {/* <Link to="">
-                    <button class="custom-btn btn-9">Read More...</button>
+                    <button className="custom-btn btn-9">Read More...</button>
                   </Link> */}
                     </div>
                   </li>
@@ -926,7 +923,7 @@ const Home = () => {
                         The temple is famous for its annual Ratha Yatra, or chariot festival
                       </p>
                       {/* <Link to="">
-                    <button class="custom-btn btn-9">Read More...</button>
+                    <button className="custom-btn btn-9">Read More...</button>
                   </Link> */}
                     </div>
                   </li>
@@ -947,26 +944,26 @@ const Home = () => {
 
 
             {/* <section id="slideshow" >
-                <div class="entire-content">
-                    <div class="content-carrousel">
-                        <figure class="shadow">
+                <div className="entire-content">
+                    <div className="content-carrousel">
+                        <figure className="shadow">
                           <img src={Balasore} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={Chandipur} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={Boudh} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={sambalpur} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={puri} />
                           </figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={Balangir} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={ANUGUL} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={konark} /></figure>
-                        <figure class="shadow">
+                        <figure className="shadow">
                           <img src={bbsr} /></figure>
                     </div>
                 </div>
@@ -983,10 +980,10 @@ const Home = () => {
             </div>
 
             <div className="container p-t80 responiveheading" style={{ paddingTop: '100px', paddingBottom: '30px' }}>
-              {/* <h3 class="head3 spacing secondary-color text-center text-uppercase">
+              {/* <h3 className="head3 spacing secondary-color text-center text-uppercase">
                 Art& Architectures of
               </h3> */}
-              <h2 class=" head2 spacing secondary-color text-center text-uppercase">
+              <h2 className=" head2 spacing secondary-color text-center text-uppercase">
                 Our Customer in Odisha
               </h2>
             </div>
@@ -1036,8 +1033,8 @@ const Home = () => {
 
             <div className='doodleimage'>
 
-              {/* <div class="row" >
-                <div class="col-md-4" style={{ display: 'flex', justifyContent: 'center' }}>
+              {/* <div className="row" >
+                <div className="col-md-4" style={{ display: 'flex', justifyContent: 'center' }}>
 
 
           
@@ -1053,7 +1050,7 @@ const Home = () => {
 
 
                 </div>
-                <div class="col-md-4" style={{ display: 'flex', justifyContent: 'center' }}>
+                <div className="col-md-4" style={{ display: 'flex', justifyContent: 'center' }}>
 
 
                   <div className="card  counter-box1">
@@ -1069,7 +1066,7 @@ const Home = () => {
 
                 </div>
 
-                <div class="col-md-4" style={{ display: 'flex', justifyContent: 'center' }}>
+                <div className="col-md-4" style={{ display: 'flex', justifyContent: 'center' }}>
 
 
                  
@@ -1144,7 +1141,7 @@ const Home = () => {
             </div>
 
             <div className="container responiveheading  paddingchange" >
-              <h2 class=" head2 spacing secondary-color text-center text-uppercase " style={{ paddingTop: "50px" }}>
+              <h2 className=" head2 spacing secondary-color text-center text-uppercase " style={{ paddingTop: "50px" }}>
                 Most Loveble Places In Odisha
               </h2>
             </div>
@@ -1169,9 +1166,9 @@ const Home = () => {
             <div className='container'>
               <div className="contentstyle">
                 <div className={`box ${activeTab === 0 ? 'show' : 'hide'}`} data-content="0">
-                  <div class="row">
-                    <div class="col-md-6"><img src={puri} alt="" /></div>
-                    <div class="col-md-6">   <div>
+                  <div className="row">
+                    <div className="col-md-6"><img src={puri} alt="" /></div>
+                    <div className="col-md-6">   <div>
                       <h3>PURI</h3>
                       <p>
                         The Jagannath Temple is an important Hindu temple dedicated to Jagannath, a form of Vishnu–one of the trinity of supreme divinity in Hinduism. It is located in Puri in the state of Odisha, situated on the eastern coast of India.
@@ -1180,7 +1177,7 @@ const Home = () => {
                       <p>The temple was rebuilt by the King of the Eastern Ganga dynasty, Anantavarman Chodaganga, in the 10th century CE, as described by the Kendupatna copper-plate inscription of his descendant, Narasimhadeva II.
                         Its name is mentioned, conforming to the deity worshipped, as Srikshetra, Purusottama Dhāma, Purusottama Kshetra, Purusottama Puri and Jagannath Puri. Puri, however, is the popular usage. It is also known by the geographical features of its location as Shankhakshetra (the layout of the town is in the form of a conch shell), Neelāchala ("Blue mountain" a terminology used to name a very large sand lagoon over which the temple was built but this name is not in vogue), Neelāchalakshetra, Neelādri.
                       </p>
-                      <Link href="#"><button class="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
+                      <Link href="#"><button className="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
                     </div></div>
                   </div>
 
@@ -1188,16 +1185,16 @@ const Home = () => {
                 </div>
 
                 <div className={`box ${activeTab === 1 ? 'show' : 'hide'}`} data-content="1">
-                  <div class="row">
-                    <div class="col-md-6"> <img className='lin' src={lingarajtemple} alt="" /></div>
-                    <div class="col-md-6"><div className='ll'>
+                  <div className="row">
+                    <div className="col-md-6"> <img className='lin' src={lingarajtemple} alt="" /></div>
+                    <div className="col-md-6"><div className='ll'>
                       <h3>LINGARAJA TEMPLE</h3>
                       <p>
                         The Lingaraja temple is the largest temple in Bhubaneswar. The central tower of the temple is 180 ft (55 m) tall. The temple represents the quintessence of the Kalinga architecture and culminating the medieval stages of the architectural tradition at Bhubaneswar.[5] The temple is believed to be built by the kings from the Somavamsi dynasty, with later additions from the Ganga rulers.
                       </p>
                       <h3>HISTORY</h3>
                       <p>The temple in its present form dates back to the last decade of the eleventh century. There is evidence that part of the temple was built during the sixth century CE as mentioned in some of the seventh century Sanskrit texts.[6] Fergusson believes that the temple might have been initiated by Lalat Indu Keshari who reigned from 615 to 657 CE. </p>
-                      <Link href="#"><button class="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
+                      <Link href="#"><button className="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
                     </div></div>
                   </div>
 
@@ -1205,9 +1202,9 @@ const Home = () => {
                 </div>
 
                 <div className={`box ${activeTab === 2 ? 'show' : 'hide'}`} data-content="2">
-                  <div class="row">
-                    <div class="col-md-6"><img src={udaya1} alt="" /></div>
-                    <div class="col-md-6">  <div>
+                  <div className="row">
+                    <div className="col-md-6"><img src={udaya1} alt="" /></div>
+                    <div className="col-md-6">  <div>
                       <h3>UDAYAGIRI</h3>
                       <p>
                         The Udayagiri Caves are twenty rock-cut caves near Vidisha, Madhya Pradesh primarily denoted to the Hindu gods Vishnu and Shiva from the early years of the 3rd century CE to 5th century CE.[1][2] They contain some of the oldest surviving Hindu temples and iconography in India. They are the only site that can be verifiably associated with a Gupta period monarch from its inscriptions.
@@ -1215,7 +1212,7 @@ const Home = () => {
                       <h3>HISTORY</h3>
                       <p>The site at Udayagiri Caves was the patronage of Chandragupta II, who is widely accepted by scholars to have ruled the Gupta Empire in central India between c. 380-414 CE. The Udayagiri Caves were created in final decades of the 4th-century, and consecrated in 401 CE. This is based on three inscriptions.</p>
 
-                      <Link href="#"><button class="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
+                      <Link href="#"><button className="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
                     </div></div>
                   </div>
 
@@ -1223,9 +1220,9 @@ const Home = () => {
                 </div>
 
                 <div className={`box ${activeTab === 3 ? 'show' : 'hide'}`} data-content="3">
-                  <div class="row">
-                    <div class="col-md-6"><img src={konark} alt="" /></div>
-                    <div class="col-md-6"> <div>
+                  <div className="row">
+                    <div className="col-md-6"><img src={konark} alt="" /></div>
+                    <div className="col-md-6"> <div>
                       <h3>KONARK</h3>
                       <p>
                         Dedicated to the Hindu Sun-god Surya, what remains of the temple complex has the appearance of a 100-foot (30 m) high chariot with immense wheels and horses, all carved from stone. Once over 200 feet (61 m) high, much of the temple is now in ruins, in particular the large shikara tower over the sanctuary; at one time this rose much higher than the mandapa that remains.
@@ -1234,7 +1231,7 @@ const Home = () => {
                       <p>
                         Konark, also referred to in Indian texts by the name Kainapara, was a significant trading port by the early centuries of the common era. The current Konark temple dates to the 13th century, though evidence suggests that a sun temple was built in the Konark area by at least the 9th century.
                       </p>
-                      <Link href="#"><button class="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
+                      <Link href="#"><button className="custom-btn btn-8 btnstyle"><span>Explore More...</span></button></Link>
                     </div></div>
                   </div>
 

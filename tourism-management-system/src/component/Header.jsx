@@ -44,7 +44,7 @@ const Header = () => {
         </div>
 
         <ul className="menu1">
-          <li><Link className='underline active' to="/tourism-management-system">Home</Link></li>
+          <li><Link className='underline active' to="/">Home</Link></li>
           <li><Link className='underline' to="/about-us">About</Link></li>
           <li><Link className='underline' to="/Package">Package</Link></li>
           <li><Link className='underline' to="/Gallery">Gallery</Link></li>
@@ -64,7 +64,7 @@ const Header = () => {
             ×
           </button>
           <ul>
-            <li><Link to="/tourism-management-system" onClick={closeNav}>Home</Link></li>
+            <li><Link to="/" onClick={closeNav}>Home</Link></li>
             <li><Link to="/about-us" onClick={closeNav}>About</Link></li>
             <li><Link to="/Package" onClick={closeNav}>Package</Link></li>
             <li><Link to="/Gallery" onClick={closeNav}>Gallery</Link></li>

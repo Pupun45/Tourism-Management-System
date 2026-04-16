@@ -66,6 +66,7 @@ function App() {
         <Header />
         <Routes>
           <Route exact path="login" element={<Login />} />
+          <Route exact path="/" element={<Home />} />
           <Route exact path="/tourism-management-system" element={<Home />} />
           <Route exact path="/about-us" element={<About />} />
           <Route exact path="/Package" element={<Package />} />
